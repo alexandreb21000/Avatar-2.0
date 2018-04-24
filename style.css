@@ -1,0 +1,55 @@
+body {
+
+font-family: ();
+
+}
+
+.bg-1 {
+    background-image: url('bg1.jpg');
+    background-position: bottom;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.bg-3 {background-color:#A1B8DA }
+
+hr {
+    width: 15%;
+    color: #fff;
+    color: #fff;
+    background-color: #fff;
+    height: 2px;
+  }
+
+
+.color-menu {color: #111F33}
+.color-sstitre {color: #FBC900}
+
+.bg-blue {background-color: #111F33;}
+
+.h700 {height: 700px;}
+.h400 {height: 400px;}
+.h300 {height: 300px;}
+
+.f-titre {font-family: 'Rubik Mono One', sans-serif;}
+.f-texte {font-family: 'Pragati Narrow', sans-serif;}
+
+.fsize-4 {font-size: 4em;}
+.fsize-2 {font-size: 2em;}
+.fsize-hello {font-size: 1.8em;}
+.fsize-1 {font-size: 1em;}
+.fsize-txt {font-size: 0.5;}
+
+.space-title {letter-spacing: 9px;}
+.space-text {letter-spacing: 3px;}
+
+.size-menu {width: 940px;}
+
+.p-sstitre {padding: 15px;}
+.m-t1 {margin-top: 20px;}
+.m-t2 {margin-bottom: 40px;}
+.m-t4 {margin-top: 50px;}
+.m-hr {margin-bottom: 10px;}
+.m-0 {margin-left: 0px;}
+
+.border-card {border: #111F33 2px solid;}
